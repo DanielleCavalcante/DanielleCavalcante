@@ -9,12 +9,12 @@
 
 ## Main Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,html,css,js,ts,java,aspnet,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,c#,react,html,css,js,ts,java,git" />
 </p>
 
 ## Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,angular,azure" />
+  <img src="https://skillicons.dev/icons?i=dotnet,c#,react,angular,azure" />
 </p>
 
 ## Certifications
