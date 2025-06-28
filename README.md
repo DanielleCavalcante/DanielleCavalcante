@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true&width=600&height=50&lines=Hi%2C+I'm+Danielle+Silva.;.NET+Back-end+Developer+%7C+Tech+for+Purpose" alt="Typing SVG" />
+</h1>
 
-<!--
-**DanielleCavalcante/DanielleCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔍 GitHub Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Danielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielleCavalcante&show_icons=true&theme=radical&count_private=true&hide_title=true)
+![Danielle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielleCavalcante&layout=compact&theme=radical)
+
+---
+
+## 🎯 Currently Focusing On
+
+Building scalable solutions using modern technologies with a strong foundation in back-end development and cloud integration.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,azure,sqlserver,git,github" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/6B3DE34B4887E9A5?sharingId=B6B840FB915A351B" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?style=for-the-badge&logo=microsoft" alt="AZ-900 Badge" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/E8E112256789401B?sharingId=B6B840FB915A351B" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AI--900-purple?style=for-the-badge&logo=microsoft" alt="AI-900 Badge" />
+  </a>
+</p>
+
+---
+
+## 👤 About Me
+
+```txt
+📍 Based in Sorocaba/SP
+🎓 Computer Science Student @ FATEC
+🐾 Currently developing a management system for an animal protection NGO
+☕ I believe good ideas start with clean code and strong coffee.
+```
+
+## 📬 Get in Touch
+If you'd like to connect, collaborate, or just say hi:
+
+📫 Email: danielle.silva19@fatec.sp.gov.br
+
+💼 LinkedIn: linkedin.com/in/daniellecavalcante-ads
+
+## 🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/DanielleCavalcante/DanielleCavalcante/output/github-contribution-grid-snake.svg" /> </p> ```
