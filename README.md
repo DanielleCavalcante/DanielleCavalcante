@@ -1,5 +1,7 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true&width=600&height=50&lines=Hi%2C+I'm+Danielle+Silva.;.NET+Back-end+Developer+%7C+Tech+for+Purpose" alt="Typing SVG" />
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF4ECB&center=false&vCenter=true&width=1000&lines=Hi%2C+I'm+Danielle+Silva;Full+Stack+Developer+specialized+in+.NET+and+React;Passionate+about+tech+with+purpose" alt="Typing SVG" />
+  </p>
 </h1>
 
 ---
