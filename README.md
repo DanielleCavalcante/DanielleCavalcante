@@ -11,12 +11,10 @@
 
 ---
 
-## 🎯 Currently Focusing On
-
-Building scalable solutions using modern technologies with a strong foundation in back-end development and cloud integration.
+## 🎯 Studying in this moment:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,azure,sqlserver,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,c#,react,angular,git" />
 </p>
 
 ---
@@ -38,9 +36,7 @@ Building scalable solutions using modern technologies with a strong foundation i
 
 ```txt
 📍 Based in Sorocaba/SP
-🎓 Computer Science Student @ FATEC
-🐾 Currently developing a management system for an animal protection NGO
-☕ I believe good ideas start with clean code and strong coffee.
+🎓 ADS Student @ FATEC SO
 ```
 
 ## 📬 Get in Touch
