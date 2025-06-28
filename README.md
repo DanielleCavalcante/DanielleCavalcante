@@ -42,7 +42,7 @@
   </a>
 </p>
 
-## Contribution Snake
+## Contribution
 <p>
   <img src="https://raw.githubusercontent.com/DanielleCavalcante/DanielleCavalcante/output/github-contribution-grid-snake.svg?palette=ff76c8-76c8ff" />
 </p>
