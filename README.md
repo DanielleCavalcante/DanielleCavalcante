@@ -9,7 +9,7 @@
 
 ---
 
-## 💻 Main Skills
+## Main Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,html,css,js,ts,java,aspnet,git" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,angular,azure" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <div align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/6B3DE34B4887E9A5?sharingId=B6B840FB915A351B" target="_blank">
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="left">
   <a href="mailto:danielle.silva19@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-FF4ECB?style=flat-square&logo=gmail&logoColor=white" /></a>
