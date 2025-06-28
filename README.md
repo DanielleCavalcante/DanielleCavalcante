@@ -27,17 +27,14 @@
 
 ## Certifications
 
-<div align="center">
+<p>Add commentMore actions
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/6B3DE34B4887E9A5?sharingId=B6B840FB915A351B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="120" alt="AZ-900 Badge" />
-    <p><strong>Microsoft Certified: Azure Fundamentals</strong></p>
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?style=for-the-badge&logo=microsoft" alt="AZ-900 Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/E8E112256789401B?sharingId=B6B840FB915A351B" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="120" alt="AI-900 Badge" />
-    <p><strong>Microsoft Certified: AI Fundamentals</strong></p>
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AI--900-purple?style=for-the-badge&logo=microsoft" alt="AI-900 Badge" />
   </a>
-</div>
+</p>
 
 ---
 
