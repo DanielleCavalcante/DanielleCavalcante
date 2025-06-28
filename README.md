@@ -47,5 +47,5 @@ If you'd like to connect, collaborate, or just say hi:
 
 💼 LinkedIn: linkedin.com/in/daniellecavalcante-ads
 
-## 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/DanielleCavalcante/DanielleCavalcante/output/github-contribution-grid-snake.svg" /> </p> ```
+## Contribution
+<p align="center"> <img src="https://raw.githubusercontent.com/DanielleCavalcante/DanielleCavalcante/output/github-contribution-grid-snake.svg" /> </p>
