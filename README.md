@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielleCavalcante&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielleCavalcante&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielleCavalcante&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
@@ -27,27 +27,32 @@
 
 ## Certifications
 
-<p>Add commentMore actions
+<div align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/6B3DE34B4887E9A5?sharingId=B6B840FB915A351B" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?style=for-the-badge&logo=microsoft" alt="AZ-900 Badge" />
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-4C6EF5?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900 Badge" />
   </a>
+  &nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielleCavalcantedaSilva-9006/E8E112256789401B?sharingId=B6B840FB915A351B" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-AI--900-purple?style=for-the-badge&logo=microsoft" alt="AI-900 Badge" />
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AI--900-FF4ECB?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900 Badge" />
   </a>
-</p>
+</div>
 
 ---
 
 ## Contact
 
 <p align="left">
-  <a href="mailto:danielle.silva19@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-FF4ECB?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daniellecavalcante-ads/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4C6EF5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:danielle.silva19@fatec.sp.gov.br">
+    <img src="https://img.shields.io/badge/Email-FF4ECB?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniellecavalcante-ads/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4C6EF5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DanielleCavalcante/DanielleCavalcante/output/github-contribution-grid-snake.svg" />
